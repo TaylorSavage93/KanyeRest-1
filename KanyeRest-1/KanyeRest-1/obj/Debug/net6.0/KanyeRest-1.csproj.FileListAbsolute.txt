@@ -1,0 +1,17 @@
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\bin\Debug\net6.0\KanyeRest-1.exe
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\bin\Debug\net6.0\KanyeRest-1.deps.json
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\bin\Debug\net6.0\KanyeRest-1.runtimeconfig.json
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\bin\Debug\net6.0\KanyeRest-1.dll
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\bin\Debug\net6.0\KanyeRest-1.pdb
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.csproj.CopyComplete
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.dll
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\refint\KanyeRest-1.dll
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.pdb
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\KanyeRest-1.genruntimeconfig.cache
+C:\Users\Taylor\Desktop\Repos2\APIJSON\KanyeRest-1\KanyeRest-1\obj\Debug\net6.0\ref\KanyeRest-1.dll
